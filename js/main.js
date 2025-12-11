@@ -13,6 +13,7 @@
 
 (function(){
     const burgerItem = document.querySelector('.burger')
+    const test2_not_used = document.querySelector('.test2')
     const menu = document.querySelector('.header__nav')
     const menuCloseItem = document.querySelector('.header__nav-close')
     const menuLinks = document.querySelectorAll('.header__link')
